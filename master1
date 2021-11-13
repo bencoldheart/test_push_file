@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello i'm master 1
 first time edit in master branch and save
+=======
+type in master1 : hello i'm master 1
+type in feature1 : Hello from feature1
+>>>>>>> feature1
